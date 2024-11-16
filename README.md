@@ -8,7 +8,7 @@ The dataset of COVID-19-related tweets from Kaggle was selected. A random subset
 https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification?select=Corona_NLP_train.csv
 
 
-Topic Modelling
+### Topic Modelling
 BERTopic is a sophisticated topic modelling technique developed by Maarten Grootendorst. It leverages BERT embeddings and a class-based TF-IDF approach to create dense, coherent clusters, enabling the automatic extraction of meaningful topics from large volumes of unstructured text. This overview details the key steps and parameters involved in implementing BERTopic.
 
 1. Embed Documents
