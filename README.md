@@ -1,4 +1,4 @@
-#Topic Modeling of Covid-19 Tweets Using BERTopic
+# Topic Modeling of Covid-19 Tweets Using BERTopic
 
 ## Introduction
 In this topic modelling analysis, we explore the application of topic modelling techniques to uncover latent themes within a corpus of tweets related to COVID-19. Social media platforms, especially Twitter, have become essential for understanding public sentiment, identifying trending topics, and gaining insights into various social and political events. By analysing these tweets, we aim to extract meaningful topics to help understand the broader narrative and opinions expressed during the pandemic.
